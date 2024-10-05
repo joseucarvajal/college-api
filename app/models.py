@@ -1,8 +1,8 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from datetime import date
 
 class CourseCreate(BaseModel):
-    name: str
+    name: str = Field(..., description="Nombre del curso (campo requerido)")
     start_date: date
     end_date: date
     cut1_percentage: float
