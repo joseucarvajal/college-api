@@ -1,0 +1,7 @@
+Parametros de entrega del proyecto:
+- Crear un esquema de base de datos con al menos 6 tablas. Se evalua el disenio de la base de datos con relaciones foreaneas
+- Crear un API para interactuar con la base de datos:
+    - Crear datos
+    - Consultar datos
+- Utilizar un nuevo repositorio en GitHub: se evalua que ignoren archivos innecesarios: .gitignore
+- No subir datos privados a GitHub
