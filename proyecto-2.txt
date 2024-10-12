@@ -9,3 +9,4 @@ Parametros de entrega del proyecto:
 - Agregar feature branches
 - Agregarle datos sinteticos para toda la base de datos. Estos datos se deben generar y llenar
 el dia de la sustentacion
+- Se tienen que crear y cerrar al menos 2 pull requests
